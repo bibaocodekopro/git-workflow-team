@@ -1,2 +1,2 @@
 console.log('oihihihihi done');
-console.log('fixed');
+console.log('fixed #6');
